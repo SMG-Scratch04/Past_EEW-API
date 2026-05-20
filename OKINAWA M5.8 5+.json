@@ -1,0 +1,40 @@
+  [{
+    "areas": [
+      {
+        "arrivalTime": "2026/05/20 11:46:40",
+        "kindCode": "19",
+        "name": "鹿児島県奄美南部",
+        "pref": "奄美",
+        "scaleFrom": 45,
+        "scaleTo": 99
+      }
+    ],
+    "cancelled": false,
+    "code": 556,
+    "earthquake": {
+      "arrivalTime": "2026/05/20 11:46:33",
+      "condition": "",
+      "hypocenter": {
+        "depth": 10,
+        "latitude": 27.4,
+        "longitude": 128.6,
+        "magnitude": 5.8,
+        "name": "沖縄本島近海",
+        "reduceName": "沖縄本島近海"
+      },
+      "originTime": "2026/05/20 11:46:31"
+    },
+    "id": "6a0d2090e88ee598246bed32",
+    "issue": {
+      "eventId": "20260520114633",
+      "serial": "1",
+      "time": "2026/05/20 11:46:40"
+    },
+    "time": "2026/05/20 11:46:40.87",
+    "timestamp": {
+      "convert": "2026/05/20 11:46:40.785",
+      "register": "2026/05/20 11:46:40.87"
+    },
+    "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+    "ver": "20231023"
+  }]
