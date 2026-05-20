@@ -1,0 +1,112 @@
+[ {
+    "areas": [
+      {
+        "arrivalTime": "2026/05/02 18:29:08",
+        "kindCode": "19",
+        "name": "奈良県",
+        "pref": "奈良",
+        "scaleFrom": 45,
+        "scaleTo": 45
+      },
+      {
+        "arrivalTime": null,
+        "kindCode": "11",
+        "name": "和歌山県北部",
+        "pref": "和歌山",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": null,
+        "kindCode": "11",
+        "name": "大阪府南部",
+        "pref": "大阪",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": null,
+        "kindCode": "11",
+        "name": "和歌山県南部",
+        "pref": "和歌山",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": null,
+        "kindCode": "11",
+        "name": "三重県南部",
+        "pref": "三重",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": null,
+        "kindCode": "11",
+        "name": "兵庫県淡路島",
+        "pref": "兵庫",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": null,
+        "kindCode": "11",
+        "name": "京都府南部",
+        "pref": "京都",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": null,
+        "kindCode": "11",
+        "name": "大阪府北部",
+        "pref": "大阪",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": null,
+        "kindCode": "11",
+        "name": "兵庫県南東部",
+        "pref": "兵庫",
+        "scaleFrom": 30,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": "2026/05/02 18:29:08",
+        "kindCode": "19",
+        "name": "三重県中部",
+        "pref": "三重",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      }
+    ],
+    "cancelled": false,
+    "code": 556,
+    "earthquake": {
+      "arrivalTime": "2026/05/02 18:28:50",
+      "condition": "",
+      "hypocenter": {
+        "depth": 80,
+        "latitude": 34.1,
+        "longitude": 135.6,
+        "magnitude": 5.7,
+        "name": "奈良県",
+        "reduceName": "奈良県"
+      },
+      "originTime": "2026/05/02 18:28:40"
+    },
+    "id": "69f5c3e4e88ee598246beca6",
+    "issue": {
+      "eventId": "20260502182850",
+      "serial": "1",
+      "time": "2026/05/02 18:29:08"
+    },
+    "time": "2026/05/02 18:29:08.817",
+    "timestamp": {
+      "convert": "2026/05/02 18:29:08.606",
+      "register": "2026/05/02 18:29:08.817"
+    },
+    "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+    "ver": "20231023"
+  }]
