@@ -1,0 +1,120 @@
+[ {
+    "areas": [
+      {
+        "arrivalTime": "2026/05/15 20:22:26",
+        "kindCode": "10",
+        "name": "宮城県中部",
+        "pref": "宮城",
+        "scaleFrom": 45,
+        "scaleTo": 45
+      },
+      {
+        "arrivalTime": null,
+        "kindCode": "11",
+        "name": "岩手県沿岸南部",
+        "pref": "岩手",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": "2026/05/15 20:22:22",
+        "kindCode": "10",
+        "name": "岩手県内陸南部",
+        "pref": "岩手",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": "2026/05/15 20:22:26",
+        "kindCode": "10",
+        "name": "宮城県北部",
+        "pref": "宮城",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": "2026/05/15 20:22:28",
+        "kindCode": "10",
+        "name": "岩手県沿岸北部",
+        "pref": "岩手",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": "2026/05/15 20:22:33",
+        "kindCode": "10",
+        "name": "岩手県内陸北部",
+        "pref": "岩手",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": "2026/05/15 20:22:39",
+        "kindCode": "10",
+        "name": "宮城県南部",
+        "pref": "宮城",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": "2026/05/15 20:22:47",
+        "kindCode": "10",
+        "name": "青森県三八上北",
+        "pref": "青森",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": "2026/05/15 20:22:47",
+        "kindCode": "10",
+        "name": "福島県中通り",
+        "pref": "福島",
+        "scaleFrom": 40,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": "2026/05/15 20:22:42",
+        "kindCode": "10",
+        "name": "秋田県内陸南部",
+        "pref": "秋田",
+        "scaleFrom": 30,
+        "scaleTo": 40
+      },
+      {
+        "arrivalTime": "2026/05/15 20:22:44",
+        "kindCode": "10",
+        "name": "福島県浜通り",
+        "pref": "福島",
+        "scaleFrom": 30,
+        "scaleTo": 40
+      }
+    ],
+    "cancelled": false,
+    "code": 556,
+    "earthquake": {
+      "arrivalTime": "2026/05/15 20:22:09",
+      "condition": "",
+      "hypocenter": {
+        "depth": 40,
+        "latitude": 38.9,
+        "longitude": 142.1,
+        "magnitude": 6.3,
+        "name": "宮城県沖",
+        "reduceName": "宮城沖"
+      },
+      "originTime": "2026/05/15 20:22:02"
+    },
+    "id": "6a0701e8e88ee598246bed13",
+    "issue": {
+      "eventId": "20260515202209",
+      "serial": "1",
+      "time": "2026/05/15 20:22:16"
+    },
+    "time": "2026/05/15 20:22:16.537",
+    "timestamp": {
+      "convert": "2026/05/15 20:22:16.522",
+      "register": "2026/05/15 20:22:16.537"
+    },
+    "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+    "ver": "20231023"
+  }]
