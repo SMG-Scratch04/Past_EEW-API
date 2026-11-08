@@ -1,0 +1,120 @@
+{
+  "areas": [
+    {
+      "arrivalTime": null,
+      "kindCode": "11",
+      "name": "熊本県天草・芦北",
+      "pref": "熊本",
+      "scaleFrom": 50,
+      "scaleTo": 50
+    },
+    {
+      "arrivalTime": null,
+      "kindCode": "11",
+      "name": "熊本県熊本",
+      "pref": "熊本",
+      "scaleFrom": 45,
+      "scaleTo": 45
+    },
+    {
+      "arrivalTime": null,
+      "kindCode": "11",
+      "name": "鹿児島県薩摩",
+      "pref": "鹿児島",
+      "scaleFrom": 45,
+      "scaleTo": 45
+    },
+    {
+      "arrivalTime": null,
+      "kindCode": "11",
+      "name": "熊本県球磨",
+      "pref": "熊本",
+      "scaleFrom": 40,
+      "scaleTo": 40
+    },
+    {
+      "arrivalTime": "2026/07/28 17:08:46",
+      "kindCode": "10",
+      "name": "長崎県島原半島",
+      "pref": "長崎",
+      "scaleFrom": 40,
+      "scaleTo": 40
+    },
+    {
+      "arrivalTime": "2026/07/28 17:08:48",
+      "kindCode": "10",
+      "name": "宮崎県南部山沿い",
+      "pref": "宮崎",
+      "scaleFrom": 40,
+      "scaleTo": 40
+    },
+    {
+      "arrivalTime": "2026/07/28 17:08:54",
+      "kindCode": "10",
+      "name": "長崎県南西部",
+      "pref": "長崎",
+      "scaleFrom": 40,
+      "scaleTo": 40
+    },
+    {
+      "arrivalTime": "2026/07/28 17:08:54",
+      "kindCode": "10",
+      "name": "熊本県阿蘇",
+      "pref": "熊本",
+      "scaleFrom": 40,
+      "scaleTo": 40
+    },
+    {
+      "arrivalTime": "2026/07/28 17:08:56",
+      "kindCode": "10",
+      "name": "福岡県筑後",
+      "pref": "福岡",
+      "scaleFrom": 40,
+      "scaleTo": 40
+    },
+    {
+      "arrivalTime": "2026/07/28 17:08:59",
+      "kindCode": "10",
+      "name": "宮崎県北部山沿い",
+      "pref": "宮崎",
+      "scaleFrom": 40,
+      "scaleTo": 40
+    },
+    {
+      "arrivalTime": "2026/07/28 17:09:00",
+      "kindCode": "10",
+      "name": "佐賀県南部",
+      "pref": "佐賀",
+      "scaleFrom": 40,
+      "scaleTo": 40
+    }
+  ],
+  "cancelled": false,
+  "code": 556,
+  "earthquake": {
+    "arrivalTime": "2026/07/28 17:08:37",
+    "condition": "",
+    "hypocenter": {
+      "depth": 10,
+      "latitude": 32.4,
+      "longitude": 130.5,
+      "magnitude": 5.9,
+      "name": "熊本県天草・芦北地方",
+      "reduceName": "熊本県"
+    },
+    "originTime": "2026/07/28 17:08:34"
+  },
+  "id": "6a68638ce88ee598246beeec",
+  "issue": {
+    "eventId": "20260728170837",
+    "serial": "2",
+    "time": "2026/07/28 17:08:44"
+  },
+  "time": "2026/07/28 17:08:44.46",
+  "timestamp": {
+    "convert": "2026/07/28 17:08:44.453",
+    "register": "2026/07/28 17:08:44.46"
+  },
+  "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+  "ver": "20231023"
+}
