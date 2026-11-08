@@ -1,0 +1,48 @@
+{
+  "areas": [
+    {
+      "arrivalTime": "2026/07/28 16:27:21",
+      "kindCode": "19",
+      "name": "熊本県熊本",
+      "pref": "熊本",
+      "scaleFrom": 55,
+      "scaleTo": 99
+    },
+    {
+      "arrivalTime": "2026/07/28 16:27:21",
+      "kindCode": "19",
+      "name": "熊本県天草・芦北",
+      "pref": "熊本",
+      "scaleFrom": 50,
+      "scaleTo": 99
+    }
+  ],
+  "cancelled": false,
+  "code": 556,
+  "earthquake": {
+    "arrivalTime": "2026/07/28 16:27:18",
+    "condition": "仮定震源要素",
+    "hypocenter": {
+      "depth": 10,
+      "latitude": 32.6,
+      "longitude": 130.7,
+      "magnitude": 1,
+      "name": "熊本県熊本地方",
+      "reduceName": "熊本県"
+    },
+    "originTime": "2026/07/28 16:27:18"
+  },
+  "id": "6a6859dae88ee598246beed4",
+  "issue": {
+    "eventId": "20260728162718",
+    "serial": "1",
+    "time": "2026/07/28 16:27:21"
+  },
+  "time": "2026/07/28 16:27:22.063",
+  "timestamp": {
+    "convert": "2026/07/28 16:27:22.003",
+    "register": "2026/07/28 16:27:22.063"
+  },
+  "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+  "ver": "20231023"
+}
